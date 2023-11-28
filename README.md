@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atakamoto!
-- 👀 I’m interested in computer science and know Java, Python, HTML/CSS, and Javascript.
+- 👀 I’m interested in data science and know Java, R, Python, HTML/CSS, and Javascript.
 - 🌱 I’m currently learning data structures and algorithms in Java.
 - 💞️ I’m looking to collaborate on any projects within my scope of knowledge.
 - 📫 How to reach me: alextakamoto116@gmail.com

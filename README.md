@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Atakamoto!
-- 👀 I’m interested in Neural Networks and Sentiment Analysis
-- 🌱 I’m currently studying Data Science at UCSD
-- 💞️ I’m looking to collaborate on any projects within my scope of knowledge.
+- Hi, I’m @Atakamoto!
+- I’m interested in Neural Networks and Sentiment Analysis
+- I’m currently studying Data Science at UCSD
 - 📫 How to reach me: alextakamoto116@gmail.com
 <!---
 Atakamoto/Atakamoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
